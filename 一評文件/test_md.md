@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
-</style>
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 <h1>系統簡介</h1>
 <h4>組別：第109505組</h4>
 <h4>專題名稱：「面」相「卜」手</h4>
